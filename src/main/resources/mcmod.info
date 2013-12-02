@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cultivation",
+  "name": "Cultivation",
+  "description": "Plant Breeding Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["kasper_tfg, Robotmine980"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
